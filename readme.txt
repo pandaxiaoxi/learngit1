@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 xxx
 111
 branch master test
+bugfix 123
